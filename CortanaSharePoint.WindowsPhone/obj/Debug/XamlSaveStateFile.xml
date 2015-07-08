@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\cortanasharepoint\cortanasharepoint.windowsphone\obj\debug\intermediatexaml\cortanasharepoint.windowsphone.exe" HashGuid="672503cf-672d-8fca-0a9e-c9f66a2a8a97" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.office.client.policy.portable.dll" HashGuid="6797a1c9-55bd-3e65-2961-47697b515445" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.office.client.translationservices.portable.dll" HashGuid="a8577507-c421-2031-5211-e852e1d4d550" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.documentmanagement.portable.dll" HashGuid="7331c649-855f-89b5-b4f1-c34112c3d92b" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.portable.dll" HashGuid="761e1220-ebbc-3388-2473-012d8979f123" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.publishing.portable.dll" HashGuid="9b58a4db-f4ae-848b-dd67-240f5e5ff454" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.runtime.portable.dll" HashGuid="6cd27af5-8790-10be-bb35-94c42dfd51f5" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.runtime.windowsphone.dll" HashGuid="9357be27-6773-78c0-78ac-86354cea009b" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.search.applications.portable.dll" HashGuid="b3238748-6395-1e24-ce1c-dfeb6e084064" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.search.portable.dll" HashGuid="425c1b98-a825-472e-3ee4-dbca0f273cd9" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.taxonomy.portable.dll" HashGuid="7bb226b3-55bd-c9c2-f983-5649f1ab1a0a" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.userprofiles.portable.dll" HashGuid="489507a4-e690-dae1-ec30-c8474c5ebda1" />
+    <ReferenceAssembly PathName="c:\users\geoffrey\desktop\cortanasharepoint\packages\microsoft.sharepointonline.csom.16.1.3912.1204\lib\wpa\microsoft.sharepoint.client.workflowservices.portable.dll" HashGuid="107e729f-e538-4670-7573-0c3d08238667" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

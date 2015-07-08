@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEOFFREY</Machine>
+    <WindowsUser>Geoffrey</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9f128708-0ad3-4a67-bfdf-a50316acb43c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\CortanaSharePoint.WindowsPhone.exe">
+      <PackagePath>CortanaSharePoint.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.Core.dll">
+      <PackagePath>Telerik.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.Data.dll">
+      <PackagePath>Telerik.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.Chart.dll">
+      <PackagePath>Telerik.UI.Xaml.Chart.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data.dll">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.Input.dll">
+      <PackagePath>Telerik.UI.Xaml.Input.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives.dll">
+      <PackagePath>Telerik.UI.Xaml.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.Office.Client.Policy.Portable.dll">
+      <PackagePath>Microsoft.Office.Client.Policy.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.Office.Client.TranslationServices.Portable.dll">
+      <PackagePath>Microsoft.Office.Client.TranslationServices.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.DocumentManagement.Portable.dll">
+      <PackagePath>Microsoft.SharePoint.Client.DocumentManagement.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.Portable.dll">
+      <PackagePath>Microsoft.SharePoint.Client.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.Publishing.Portable.dll">
+      <PackagePath>Microsoft.SharePoint.Client.Publishing.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.Runtime.Portable.dll">
+      <PackagePath>Microsoft.SharePoint.Client.Runtime.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.Runtime.WindowsPhone.dll">
+      <PackagePath>Microsoft.SharePoint.Client.Runtime.WindowsPhone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.Search.Applications.Portable.dll">
+      <PackagePath>Microsoft.SharePoint.Client.Search.Applications.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.Search.Portable.dll">
+      <PackagePath>Microsoft.SharePoint.Client.Search.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.Taxonomy.Portable.dll">
+      <PackagePath>Microsoft.SharePoint.Client.Taxonomy.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.UserProfiles.Portable.dll">
+      <PackagePath>Microsoft.SharePoint.Client.UserProfiles.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\packages\Microsoft.SharePointOnline.CSOM.16.1.3912.1204\lib\wpa\Microsoft.SharePoint.Client.WorkflowServices.Portable.dll">
+      <PackagePath>Microsoft.SharePoint.Client.WorkflowServices.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\Calendar.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Calendar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\CommonResources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\CommonResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Chart\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data\Themes\ListBox.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ListBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\Resources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\Resources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Chart\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Chart\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q1 2015\SDKs\Windows Phone 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\Assets\Cortana_Animation.mp4">
+      <PackagePath>Assets\Cortana_Animation.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\Assets\TitleLogo.png">
+      <PackagePath>Assets\TitleLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\VoiceCommandDefinition1.xml">
+      <PackagePath>VoiceCommandDefinition1.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\VoiceCommandDefinition_SharePointCellenza.xml">
+      <PackagePath>VoiceCommandDefinition_SharePointCellenza.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\Views\CortanaCalendar.xbf">
+      <PackagePath>Views\CortanaCalendar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\Views\CortanaListItems.xbf">
+      <PackagePath>Views\CortanaListItems.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\Views\CortanaSearch.xbf">
+      <PackagePath>Views\CortanaSearch.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\Views\Settings.xbf">
+      <PackagePath>Views\Settings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\CortanaSharePoint.WindowsPhone.xr.xml">
+      <PackagePath>CortanaSharePoint.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Geoffrey\Desktop\CortanaSharePoint\CortanaSharePoint\CortanaSharePoint.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

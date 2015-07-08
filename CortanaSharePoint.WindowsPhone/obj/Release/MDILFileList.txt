@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <file>\CortanaSharePoint.WindowsPhone.exe</file>
+  <file>\Microsoft.IdentityModel.Clients.ActiveDirectory.winmd</file>
+  <file>\Microsoft.Office.Client.Policy.Portable.dll</file>
+  <file>\Microsoft.Office.Client.TranslationServices.Portable.dll</file>
+  <file>\Microsoft.Office365.Discovery.dll</file>
+  <file>\Microsoft.Office365.OAuth.dll</file>
+  <file>\Microsoft.Office365.OAuth.WindowsPhone.WinRT.dll</file>
+  <file>\Microsoft.SharePoint.Client.DocumentManagement.Portable.dll</file>
+  <file>\Microsoft.SharePoint.Client.Portable.dll</file>
+  <file>\Microsoft.SharePoint.Client.Publishing.Portable.dll</file>
+  <file>\Microsoft.SharePoint.Client.Runtime.Portable.dll</file>
+  <file>\Microsoft.SharePoint.Client.Runtime.WindowsPhone.dll</file>
+  <file>\Microsoft.SharePoint.Client.Search.Applications.Portable.dll</file>
+  <file>\Microsoft.SharePoint.Client.Search.Portable.dll</file>
+  <file>\Microsoft.SharePoint.Client.Taxonomy.Portable.dll</file>
+  <file>\Microsoft.SharePoint.Client.UserProfiles.Portable.dll</file>
+  <file>\Microsoft.SharePoint.Client.WorkflowServices.Portable.dll</file>
+  <file>\Newtonsoft.Json.dll</file>
+</Files>

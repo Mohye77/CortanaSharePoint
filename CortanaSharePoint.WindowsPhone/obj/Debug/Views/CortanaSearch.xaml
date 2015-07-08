@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="CortanaSharePoint.Views.CortanaSearch"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CortanaSharePoint.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Margin="5,0">
+        <Image Source="/Assets/TitleLogo.png"></Image>
+        <TextBlock Name="txtCortanaMessages"></TextBlock>
+        <Button x:ConnectionId='1' HorizontalAlignment="Stretch" Name="btnSearch"                        >Search</Button>
+        <ListBox Background="Black" Name="CortanaSearchListView" ItemsSource="{Binding CortanaResults}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Visibility="Collapsed" Foreground="White" Text="{Binding Id}"></TextBlock>
+                        <TextBlock Foreground="White" Text="{Binding Title}"></TextBlock>
+                        <TextBlock Foreground="White" Text="{Binding Url}"></TextBlock>
+                        <TextBlock Foreground="White" Text="{Binding LastModifiedDate}"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </StackPanel>
+
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="True" x:Name="appBar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='2' Name="AppBarBtnHome" Icon="Home" IsCompact="False" Label="Home"                             />
+                <AppBarButton x:ConnectionId='3' Name="AppBarBtnSettings" Icon="Setting" IsCompact="False" Label="Settings"                                />
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <!--<AppBarButton Label="Test02"/>-->
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+
